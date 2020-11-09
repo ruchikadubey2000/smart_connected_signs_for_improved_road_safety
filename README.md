@@ -1,2 +1,2 @@
 # smart_connected_signs_for_improved_road_safety
-The road signs can be digitized with the help of this project. sensors are used to detect information like heavy traffic, rain etc and the data sent to a mobile application using IBM cloud which is also  displayed dynamically using digitized sign board.
+TThe main idea behind the project is to convert static road signs into digitized road signs to have real-time signboards. sensors are used to detect information like heavy traffic, rain and collected data from these sensors are stored using IBM Cloud and processed using IBM WATSON. now the processed data is made available to the end-user so he/she can keep a track of what is been displayed on the digitized signboard.
